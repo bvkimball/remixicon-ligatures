@@ -1,0 +1,55 @@
+@font-face {
+  font-family: RemixOutlined;
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+  src: url("RemixOutlined.eot?t=1602709988938"); /* IE9*/
+  src: url("RemixOutlined.eot?t=1602709988938#iefix") format("embedded-opentype"),
+    url("RemixOutlined.woff2?t=1602709988938") format("woff2"),
+    url("RemixOutlined.woff?t=1602709988938") format("woff"),
+    url("RemixOutlined.ttf?t=1602709988938") format("truetype");
+}
+
+@font-face {
+  font-family: RemixFilled;
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+  src: url("RemixFilled.eot?t=1602709988938"); /* IE9*/
+  src: url("RemixFilled.eot?t=1602709988938#iefix") format("embedded-opentype"),
+    url("RemixFilled.woff2?t=1602709988938") format("woff2"),
+    url("RemixFilled.woff?t=1602709988938") format("woff"),
+    url("RemixFilled.ttf?t=1602709988938") format("truetype");
+}
+
+i.ri,
+i.ri-line {
+  font-family: RemixOutlined;
+}
+
+i.ri-fill {
+  font-family: RemixFilled;
+}
+
+i.ri,
+i.ri-line,
+i.ri-fill {
+  display: inline-block;
+  vertical-align: middle;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1.5em;
+  width: 1.5em;
+  height: 1.5em;
+  line-height: 1;
+  letter-spacing: normal;
+  text-transform: none;
+  word-wrap: normal;
+  white-space: nowrap;
+  direction: ltr;
+  overflow: hidden;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  -moz-osx-font-smoothing: grayscale;
+  font-feature-settings: "liga";
+}
