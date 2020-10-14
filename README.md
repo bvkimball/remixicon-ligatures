@@ -37,7 +37,7 @@ Copy the following code and add it to the &lt;head&gt; tag of your html document
 
 ```html
 <link
-  href="https://cdn.jsdelivr.net/npm/remixicon-ligature@2.5.0/fonts/remixicon.css"
+  href="https://cdn.jsdelivr.net/npm/remixicon-ligatures@2.5.0/fonts/remixicon.css"
   rel="stylesheet"
 />
 ```
