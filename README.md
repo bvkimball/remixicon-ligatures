@@ -48,7 +48,7 @@ Copy the following code and add it to the &lt;head&gt; tag of your html document
 
 #### Download Manually
 
-Download [`remixicon.css`](https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css) file, add it to the &lt;head&gt; tag of your html document.
+Download [`remixicon.css`](https://cdn.jsdelivr.net/npm/remixicon-ligatures@2.5.0/fonts/remixicon.css) file, add it to the &lt;head&gt; tag of your html document.
 
 #### Use
 
